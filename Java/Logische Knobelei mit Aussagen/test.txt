@@ -1,0 +1,71 @@
+Marion zu Dirk: Mein Mann heißt nicht Stefan
+Andreas zu Stella: Utes Mann heißt nicht Theo
+Ruth zu Dirk: Brigitte ist verheiratet
+Stella sagt zu Marion: Mein Bruder heißt nicht Martin
+Leon zu Ruth: Uwes Tochter heißt nicht Jana
+Sonja sagt zu Andreas: Mein Sohn heißt nicht Joern
+Edgars Frau sagt zu Brigitte: Ihre Tochter heißt nicht Julia
+Michael zu Georg: Utes Sohn heißt nicht Andreas
+Uwes Tochter zu Sonja: Ihr Mann heißt nicht Theo
+Der Sohn von Max zu Michael: Meine Schwester heißt nicht Jana
+Dirks Vater zu Edgar: Meine Tochter heißt nicht Heike
+Monika zu Stefan: Georg ist verheiratet
+Hanna zu Brigitte: Karins Tochter heißt nicht Julia
+Andreas sagt zu Max: Ihr Sohn heißt nicht Klaus
+Max seine Frau zu Martin: Uwes Sohn heißt nicht Michael
+Der Sohn von Edgar zu Ruth: Ich bin älter als Michael
+Monika zu Stella: Deine Mutter ist nicht Sonja
+Karin zu Hanna: Uwes Frau heißt nicht Monika
+Hanna sagt zu Dirk: Mein Vater heißt nicht Stefan
+Marion zu Georg: Mein Sohn heißt nicht Joern
+Andreas zu Heike: Dein Vater heißt nicht Edgar
+Monika sagt zu Theo: Ihre Frau heißt nicht Karin
+Julias Bruder zu Ute: Mein Vater heißt Markus
+Monika zu Max: Mein Sohn heißt nicht Dirk
+Theo sagt zu Marion: Ihr Mann heißt nicht Markus
+Edgars Tochter zu Jenny: Deine Mutter heißt nicht Karin
+Hanna zu Leon: Deine Mutter heißt Marion
+Heikes Vater zu Marion: Ihre Tochter heißt nicht Jana
+Jana zu Edgar: Ihre Frau heißt nicht Ute
+Hanna sagt zu Martin: Mein Vater heißt nicht Max
+Karin zu Simone: Unsere Tochter Ruth ist älter als dein Sohn
+Martin zu Heike: Deine Mutter heißt nicht Ute
+Edgars Tochter zu Hanna: Max seine Frau heißt nicht Karin
+Ute zu Uwe: Meine Tochter heißt nicht Hanna
+Julia zu Sonja: Mein Bruder heißt nicht Andreas
+
+Edgar Max Ute Hanna Klaus Simone Michael Theo Joern Leon Heike Uwe Monika Stella Jana
+Martin Sonja Karin Ruth Julia Brigitte Markus Marion Stefan Andreas Jenny Dirk Georg
+
+Number of names: 28
+
+
+
+Edgar
+Max
+Ute
+Karin
+Klaus
+Simone
+Michael
+Theo
+Joern
+Leon
+Heike
+Uwe
+Monika
+Stella
+Jana
+Martin
+Sonja
+Karin
+Ruth
+Julia
+Brigitte
+Markus
+Marion
+Stefan
+Andreas
+Jenny
+Dirk
+Georg

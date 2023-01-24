@@ -1,0 +1,1001 @@
+id,company_name,x_km,y_km
+1,McKenzie-Kilback,14.87,2.43
+2,"Littel, Kunze and McDermott",6.28,21.08
+3,Beier Group,0.34,8.43
+4,"Leffler, Smith and Dibbert",10.76,21.14
+5,Gerhold Inc,10.79,5.08
+6,"Abshire, Jakubowski and Auer",4.2,7.23
+7,Reilly-Crist,28.11,3.91
+8,Upton Group,9.32,4.45
+9,Towne-Hintz,25.22,22.7
+10,Nitzsche LLC,20.32,31.72
+11,Barton LLC,4.79,24.38
+12,Larson Group,1.42,5.03
+13,"Green, Ullrich and Waters",18.93,3.45
+14,Legros and Sons,19.75,32.56
+15,"Kassulke, Wiza and Prohaska",15.84,6.99
+16,"Dibbert, Orn and Rolfson",22.64,5.48
+17,Mills-Hettinger,34.85,25.58
+18,"Ernser, Hyatt and Trantow",18.94,34.58
+19,"Schroeder, Hodkiewicz and Harris",24.22,31.53
+20,"Rowe, Thompson and Cremin",4.51,6.32
+21,"Rath, Ferry and Terry",25.09,34.12
+22,Rohan-Bauch,30.06,11.28
+23,"Kiehn, Kertzmann and Wiza",24.8,1.07
+24,"Pacocha, Cruickshank and Klein",18.28,11.46
+25,"Emard, D'Amore and Dickinson",0.95,18.81
+26,Gutkowski LLC,6.51,25.07
+27,Mann Inc,12.57,17.16
+28,"Deckow, Frami and Grady",14.5,19.26
+29,"Daniel, Lebsack and Wiegand",2.79,27.23
+30,Mosciski and Sons,19.34,0.05
+31,"Donnelly, Stamm and Abshire",11.28,12.01
+32,Lynch Group,10.15,0.39
+33,Goyette Group,13.0,12.1
+34,Lindgren-Wintheiser,10.23,24.25
+35,"Boehm, Jenkins and Cole",29.1,33.4
+36,Padberg-Tillman,21.49,27.66
+37,"Turcotte, Wiza and Leffler",2.55,0.46
+38,"Pfeffer, Smith and Zboncak",20.24,18.48
+39,"McClure, Kris and Feil",21.85,24.42
+40,Gleichner LLC,24.35,9.41
+41,Lueilwitz Inc,4.3,3.31
+42,"Kunze, Mitchell and Prosacco",23.0,7.54
+43,"Friesen, VonRueden and Ryan",20.9,27.39
+44,"Murray, Stokes and Baumbach",34.31,31.94
+45,"Kshlerin, Hamill and O'Hara",20.16,7.74
+46,"Hickle, Lebsack and VonRueden",17.58,6.6
+47,Torp-Ernser,12.51,16.51
+48,Kunde-Veum,22.03,21.69
+49,"Prohaska, Larkin and Bednar",23.06,33.74
+50,"Connelly, Fahey and Ullrich",22.53,26.34
+51,Pacocha Group,26.53,10.68
+52,Tillman-Reynolds,8.15,20.73
+53,O'Connell Group,7.57,12.02
+54,Hand-Koepp,22.1,25.41
+55,Dietrich and Sons,33.22,13.62
+56,"Armstrong, Hirthe and Feeney",15.95,21.22
+57,"Gibson, Hoeger and Leffler",33.79,6.41
+58,Herman LLC,12.14,9.71
+59,Vandervort LLC,8.64,5.16
+60,Beer and Sons,1.85,28.96
+61,McLaughlin-Ankunding,34.91,26.1
+62,"Harvey, Lang and Turner",24.23,9.89
+63,Shanahan-Heaney,23.18,0.26
+64,"Collins, Wintheiser and Rosenbaum",19.14,6.7
+65,McLaughlin-McGlynn,2.85,4.41
+66,Schiller-Schultz,6.68,14.17
+67,"Reichert, Purdy and Bode",21.02,0.75
+68,Reinger-Walter,31.91,17.91
+69,Gibson-Cummings,18.88,9.11
+70,White-Durgan,28.99,27.06
+71,Yost LLC,9.17,32.59
+72,"Tremblay, Zulauf and Schoen",19.35,6.85
+73,"Lynch, Farrell and Watsica",20.14,32.47
+74,Williamson LLC,22.72,5.69
+75,Bartoletti Inc,19.53,33.64
+76,Koepp Group,33.28,9.85
+77,"Jones, Veum and Larson",8.31,25.96
+78,"Johns, Green and Reynolds",15.02,27.23
+79,"Ritchie, Krajcik and Wolff",22.98,24.93
+80,Sporer-Orn,30.89,24.08
+81,Kutch-Bosco,30.17,23.39
+82,Barrows-O'Kon,23.26,1.36
+83,"Considine, Pacocha and Romaguera",19.41,6.39
+84,"Will, Koch and Daniel",22.22,34.94
+85,"Krajcik, Bednar and Doyle",7.27,21.87
+86,Rogahn LLC,25.76,32.35
+87,Hoeger LLC,22.91,6.61
+88,Johns-Connelly,25.63,17.27
+89,"Hessel, Schneider and Reichert",10.29,25.24
+90,"Lueilwitz, Schinner and Cremin",26.83,18.58
+91,Jenkins-Rice,21.14,30.4
+92,Gaylord-Murray,4.32,16.76
+93,Graham-Rosenbaum,27.55,16.06
+94,"Bogan, Muller and Stanton",31.12,16.76
+95,Thompson-Lehner,31.62,27.63
+96,Nikolaus and Sons,29.13,29.71
+97,Berge Group,18.16,0.4
+98,MacGyver and Sons,4.41,21.83
+99,Dicki-Carroll,4.47,9.18
+100,Maggio-Franecki,25.79,26.71
+101,Williamson-Lakin,27.88,0.75
+102,"Bednar, Gleichner and Lynch",9.13,34.09
+103,Turcotte LLC,0.22,28.53
+104,"Kunze, Hartmann and Rippin",8.88,4.82
+105,"Kassulke, Prosacco and Ratke",27.57,25.03
+106,Bednar LLC,1.58,11.98
+107,Beer-Hilpert,27.57,0.22
+108,"Deckow, Hermiston and Kub",18.5,30.89
+109,Torphy Inc,7.11,32.2
+110,"Champlin, Wisoky and Orn",4.97,13.62
+111,Konopelski Group,34.29,17.11
+112,"Batz, Pfeffer and Abshire",27.32,25.96
+113,Roberts Group,16.61,8.84
+114,Kassulke Group,16.95,19.69
+115,Satterfield LLC,32.46,0.46
+116,"Auer, Weissnat and Fritsch",21.83,23.15
+117,Cronin Group,6.19,29.34
+118,"Klein, Ferry and Torp",8.56,20.16
+119,"Jaskolski, Streich and Feeney",31.65,1.93
+120,O'Reilly LLC,28.99,4.42
+121,"Johns, Roberts and Howell",16.82,33.59
+122,Cruickshank-Hermiston,26.59,15.0
+123,Jast-Borer,26.18,15.81
+124,"Watsica, Wilderman and Cronin",8.06,24.59
+125,Rohan Inc,2.73,32.96
+126,Cummings and Sons,19.16,11.47
+127,"Stamm, Herman and Corwin",20.23,30.56
+128,Rohan Inc,16.36,13.58
+129,Marquardt Inc,25.45,30.54
+130,Huels-Barton,1.86,4.73
+131,Crona-Yundt,9.8,26.79
+132,Lowe and Sons,21.51,33.62
+133,"Lubowitz, Stark and Kovacek",20.38,21.83
+134,"Rodriguez, Murphy and Gulgowski",23.08,29.19
+135,Boehm-Gerlach,10.07,31.66
+136,"Turcotte, Gulgowski and Ferry",29.96,0.03
+137,"Hauck, Grant and Nienow",30.31,29.65
+138,Deckow LLC,32.3,0.37
+139,"Schuppe, Nader and Nicolas",10.3,29.52
+140,"Bayer, Bahringer and Cormier",9.54,18.03
+141,Vandervort-Herman,0.21,13.16
+142,"Jones, O'Hara and Dibbert",30.18,1.12
+143,Sauer-Hayes,12.71,4.93
+144,King-Glover,14.55,14.14
+145,Collins LLC,32.79,29.82
+146,Heathcote LLC,0.37,22.27
+147,Jerde-Bradtke,18.73,8.48
+148,Eichmann-Kovacek,26.77,27.15
+149,Spencer-Maggio,30.04,17.68
+150,Rosenbaum-Wehner,3.31,34.61
+151,Botsford and Sons,17.62,9.6
+152,Kerluke Group,22.34,18.55
+153,"Huel, Pfannerstill and Stamm",15.08,14.65
+154,McDermott LLC,3.74,10.93
+155,Steuber-Senger,33.81,31.11
+156,"Leffler, Huels and Cummerata",30.73,4.5
+157,Welch LLC,1.97,1.32
+158,Kohler-West,5.61,27.72
+159,"Boehm, Mueller and Douglas",13.32,16.6
+160,Douglas-Zieme,25.45,6.06
+161,"Hodkiewicz, Bosco and Morissette",8.41,34.55
+162,Kerluke-Paucek,32.87,31.76
+163,"Hahn, McKenzie and Leffler",13.02,33.24
+164,Prohaska and Sons,29.2,34.43
+165,"Dicki, Ortiz and Quitzon",2.17,25.91
+166,"Gottlieb, Muller and Turner",27.08,0.73
+167,Mohr-Barrows,9.24,31.16
+168,Mayer Inc,2.66,33.55
+169,Parker-Dare,5.27,25.33
+170,Windler Group,22.82,30.15
+171,Nitzsche and Sons,31.04,12.11
+172,Harris and Sons,0.98,0.73
+173,Bins-Mayer,20.64,22.44
+174,Emard-Orn,1.43,26.27
+175,"Marvin, Kub and Kozey",11.54,1.55
+176,"Rosenbaum, Lockman and Crooks",16.3,13.68
+177,Satterfield LLC,5.1,27.83
+178,VonRueden-Erdman,20.74,22.39
+179,Schneider Inc,31.89,6.19
+180,"Lubowitz, Hyatt and Reilly",19.1,12.13
+181,"Turcotte, Hane and Stroman",2.96,13.37
+182,"Bauch, McClure and Predovic",28.94,32.91
+183,"Ernser, Heaney and McKenzie",12.2,4.13
+184,Strosin LLC,26.86,27.75
+185,Gaylord-Keebler,13.45,33.9
+186,"Beatty, Paucek and Wisozk",12.63,32.89
+187,"Grant, Kris and Schmitt",24.36,0.59
+188,"Shanahan, Leannon and Lowe",16.61,18.44
+189,Heaney Group,6.01,24.45
+190,"Parisian, Considine and Lesch",26.22,2.96
+191,Schulist LLC,19.24,28.68
+192,Halvorson and Sons,13.34,6.73
+193,"Haag, Schultz and Schinner",9.85,22.26
+194,"Corwin, Larkin and Kiehn",23.59,31.73
+195,Roberts-Rodriguez,8.42,18.94
+196,"Gorczany, Feil and Greenholt",19.16,7.15
+197,"Kuphal, Lesch and Bednar",0.76,32.65
+198,Flatley LLC,26.14,31.42
+199,"Beatty, O'Keefe and Robel",7.6,9.2
+200,Wisozk-Heidenreich,16.62,14.33
+201,Will-McKenzie,7.11,24.74
+202,MacGyver-Yost,32.11,1.32
+203,Marquardt-Feil,10.84,26.36
+204,Huels and Sons,21.69,8.06
+205,Klocko-Goldner,21.02,16.83
+206,Thiel-Witting,24.56,8.26
+207,"Pfeffer, Dibbert and Stehr",19.68,19.66
+208,Klein-Olson,21.57,4.78
+209,Stanton and Sons,31.84,20.63
+210,Kirlin and Sons,7.78,25.94
+211,Thompson-Beier,8.52,22.92
+212,Brakus-Thiel,22.46,7.48
+213,"Goodwin, Romaguera and Mills",24.96,22.18
+214,"Hahn, Glover and Wilkinson",5.12,33.72
+215,Reichel and Sons,21.98,23.65
+216,Heathcote Group,28.17,22.66
+217,Mante-Renner,13.64,24.06
+218,Hilpert Inc,23.75,4.74
+219,"Bogan, Kutch and McGlynn",26.77,23.18
+220,King LLC,18.52,8.12
+221,Pouros-Kunde,19.34,18.39
+222,Lowe Group,27.0,8.64
+223,Ziemann-Sauer,31.73,11.06
+224,Anderson-Daniel,31.83,8.59
+225,Windler and Sons,19.82,32.12
+226,"Okuneva, Senger and Daniel",0.25,14.36
+227,"Tromp, Ortiz and Koss",12.45,26.31
+228,Kulas-Kris,14.57,2.93
+229,"Corwin, Feest and Walter",2.27,15.76
+230,Stanton Inc,32.65,2.4
+231,Gleichner-Bernier,8.47,22.08
+232,Fisher LLC,2.08,28.03
+233,"Hansen, Lemke and Gutmann",24.95,11.18
+234,Walker and Sons,6.88,19.1
+235,"Murazik, Macejkovic and Welch",20.2,7.3
+236,"Predovic, Kunze and Jakubowski",3.42,14.2
+237,"Kreiger, Orn and Heathcote",26.11,0.6
+238,"Nienow, DuBuque and Gusikowski",2.54,7.73
+239,Rowe and Sons,27.79,26.6
+240,"Botsford, Turner and Wuckert",14.08,29.93
+241,Senger-Medhurst,10.08,2.74
+242,Klein LLC,29.57,27.43
+243,"Okuneva, Konopelski and Reilly",3.35,19.72
+244,"Huel, Deckow and Schamberger",9.31,30.11
+245,Witting Group,16.69,6.9
+246,"Sawayn, Renner and Kirlin",14.67,34.66
+247,McClure LLC,25.45,22.16
+248,Torphy and Sons,21.08,0.5
+249,Bahringer-Fahey,0.61,13.43
+250,"Considine, Goldner and Abshire",9.47,3.72
+251,"Padberg, Dietrich and Moen",18.8,13.6
+252,"Stehr, Luettgen and Rath",30.62,19.04
+253,Reilly and Sons,3.92,33.15
+254,"Leuschke, Kreiger and Torp",21.97,4.54
+255,"Veum, Nicolas and Hayes",17.22,34.54
+256,"Anderson, Swaniawski and Braun",10.61,3.02
+257,"Pfeffer, Little and Ledner",23.21,9.67
+258,Johnson Inc,14.67,20.74
+259,Ledner Group,6.9,31.43
+260,Bergstrom Group,32.73,27.3
+261,Heller-Jaskolski,30.57,27.52
+262,Botsford Inc,22.36,7.65
+263,Christiansen LLC,18.11,13.59
+264,"Bashirian, Hartmann and Gorczany",1.03,8.2
+265,"Nader, Altenwerth and Lakin",22.78,10.02
+266,Aufderhar LLC,25.08,27.82
+267,"Rogahn, Kautzer and Kutch",4.1,27.91
+268,"Willms, Pfeffer and Anderson",28.54,18.9
+269,Bernhard and Sons,10.6,16.41
+270,Schaefer and Sons,20.32,4.69
+271,Cummerata-Bashirian,3.74,27.99
+272,Hettinger Inc,34.05,15.91
+273,Borer-Kovacek,19.07,23.89
+274,"Kilback, Boehm and Schumm",22.63,12.91
+275,Boyer-Funk,8.53,3.68
+276,Stehr-Huel,10.97,21.16
+277,"Johnston, Kassulke and Walsh",10.28,11.71
+278,"Mills, Lebsack and Mertz",24.21,33.12
+279,Daugherty Group,18.45,13.49
+280,Nikolaus Group,11.05,12.22
+281,Beahan-Lakin,16.04,33.43
+282,Witting-Mills,25.13,16.26
+283,"Green, Rutherford and Wiegand",26.44,29.99
+284,Purdy and Sons,34.12,1.42
+285,O'Connell LLC,23.91,18.99
+286,Stark-Schamberger,27.84,13.94
+287,"Bechtelar, Rippin and Ferry",13.59,5.15
+288,Boyle-Purdy,33.96,3.87
+289,"Durgan, Mosciski and Schmitt",34.8,13.56
+290,Berge-Jones,18.95,16.09
+291,Nitzsche Inc,12.03,31.59
+292,"Larson, Sanford and Deckow",2.44,27.0
+293,Heidenreich-Tremblay,30.82,5.85
+294,Heaney-Bailey,1.38,3.41
+295,Daniel-Zemlak,12.05,20.83
+296,"Hodkiewicz, Strosin and Breitenberg",23.49,4.82
+297,Nicolas Inc,13.35,6.46
+298,"Abshire, Purdy and Carroll",30.92,11.46
+299,"Hilll, Cummerata and Osinski",4.37,30.93
+300,MacGyver Group,19.18,6.02
+301,Jacobson-O'Keefe,4.15,26.0
+302,Schuppe Group,10.87,15.51
+303,"Towne, Kassulke and Goodwin",7.79,13.69
+304,Miller and Sons,26.2,9.94
+305,Klocko-Dietrich,17.59,1.23
+306,"Haley, Abbott and Hand",4.71,18.72
+307,"McClure, Skiles and Deckow",12.82,15.79
+308,Bauch-Jacobs,24.86,10.14
+309,Feest LLC,17.67,31.72
+310,"Beatty, Mertz and Wehner",1.7,24.72
+311,"Kuphal, Keebler and Runolfsson",32.78,8.26
+312,Miller-Kemmer,17.61,24.05
+313,Lesch-Lowe,13.5,23.78
+314,"Brown, Barrows and Terry",27.29,9.11
+315,"O'Reilly, Morar and O'Reilly",27.97,33.37
+316,"Bahringer, Armstrong and Torp",22.48,26.41
+317,Lynch-Dooley,33.64,2.29
+318,Jakubowski-Lueilwitz,18.78,6.43
+319,"Powlowski, Gaylord and Schamberger",25.95,15.48
+320,Reichel and Sons,8.16,16.44
+321,Kulas-O'Hara,10.38,11.83
+322,"Wintheiser, Larson and Turcotte",9.65,16.47
+323,"Koss, Franecki and Hahn",27.72,26.28
+324,"Mayer, Frami and Keeling",32.76,28.26
+325,"Lehner, Casper and Von",18.14,33.68
+326,"O'Keefe, Doyle and Lindgren",11.09,16.63
+327,Hermann and Sons,8.63,29.94
+328,Johnston Group,32.63,22.95
+329,Wilkinson-Wolff,13.25,14.9
+330,Hirthe Inc,8.08,33.17
+331,Raynor-Lesch,20.6,2.39
+332,Conroy Group,6.15,30.17
+333,Turner Group,14.68,32.92
+334,Stokes-Hackett,29.78,2.58
+335,"Funk, Haag and Towne",11.37,1.66
+336,Witting Group,22.51,25.81
+337,Hayes-Morar,5.65,21.82
+338,Ziemann-Ferry,33.29,19.14
+339,"Corwin, Bogan and Dickinson",28.26,0.27
+340,Eichmann-Hyatt,21.1,9.24
+341,"Johns, Price and Streich",23.59,31.64
+342,"Jenkins, Gislason and Fay",13.98,2.5
+343,"Steuber, Auer and Sipes",15.64,21.01
+344,Vandervort LLC,34.75,34.11
+345,Crooks Group,0.03,6.7
+346,"Zulauf, Mosciski and Nitzsche",29.96,3.37
+347,"Price, Langosh and Boehm",15.13,2.06
+348,"Doyle, Kovacek and Ferry",0.78,11.95
+349,"Cronin, Schoen and Weimann",29.2,7.19
+350,Barrows Inc,17.84,17.31
+351,Brekke-Gleason,33.79,33.24
+352,Russel-Hilll,34.21,26.51
+353,Pfannerstill-Hyatt,16.3,31.99
+354,Cronin Group,2.41,4.4
+355,"Barrows, Crooks and Littel",22.79,33.05
+356,"Cremin, Zboncak and Abbott",14.35,34.62
+357,"Runolfsson, Welch and O'Kon",9.84,11.49
+358,Johnson-Rempel,0.53,34.12
+359,"Zemlak, Schaefer and Adams",4.36,17.2
+360,Dooley Group,13.96,4.8
+361,Stiedemann-Thompson,29.78,34.3
+362,Sauer Group,20.75,29.61
+363,Hermann and Sons,29.41,13.04
+364,West-Kerluke,33.56,15.19
+365,Brakus LLC,9.06,3.15
+366,Schamberger Inc,12.11,10.84
+367,"Bosco, Adams and Hammes",14.61,22.69
+368,Berge-Johnston,15.63,21.43
+369,Quigley-Ziemann,21.18,8.31
+370,"Wintheiser, Lebsack and Dickinson",10.0,8.99
+371,Powlowski-Sipes,8.09,21.99
+372,Monahan-Lang,25.66,17.76
+373,Bogan Group,11.93,18.73
+374,"Renner, Bednar and Considine",2.68,24.49
+375,Runolfsson Inc,16.04,17.0
+376,Kohler LLC,9.51,26.52
+377,Rosenbaum-McClure,3.67,31.91
+378,Bechtelar-Watsica,26.82,5.39
+379,Boyer LLC,18.85,24.34
+380,"Murazik, Kemmer and Collins",24.87,24.76
+381,"Skiles, Purdy and Hammes",30.88,21.73
+382,"DuBuque, Steuber and Mills",8.39,34.73
+383,Okuneva LLC,29.21,13.55
+384,"Mann, Dibbert and Spinka",1.12,22.59
+385,Kilback LLC,10.53,26.59
+386,Veum LLC,14.58,28.19
+387,Mraz LLC,23.65,13.66
+388,"Beahan, Torp and Davis",1.46,24.86
+389,"Marquardt, Welch and Batz",23.2,8.7
+390,"Deckow, Harber and O'Hara",15.1,17.32
+391,"Bogan, Lindgren and Miller",2.43,32.55
+392,Huel-Mills,1.14,21.1
+393,Rohan and Sons,0.66,28.28
+394,"Nader, Rodriguez and Lindgren",23.42,22.21
+395,Toy Inc,14.99,8.63
+396,"Stokes, McGlynn and Wilderman",9.94,28.46
+397,"Windler, Russel and Goodwin",33.8,24.17
+398,Hamill Inc,23.3,21.66
+399,Wolff-Marvin,4.26,13.32
+400,"Bernhard, Ortiz and Abshire",30.43,34.25
+401,Witting LLC,18.43,9.03
+402,Bayer Inc,27.35,33.46
+403,Auer-Roob,1.37,24.31
+404,Smith and Sons,22.43,0.55
+405,Johnson LLC,9.16,27.54
+406,Carter LLC,29.09,0.85
+407,"Orn, Lehner and Kertzmann",29.12,14.72
+408,Feeney-Homenick,22.45,31.33
+409,Botsford Group,28.46,11.9
+410,Wilderman and Sons,7.32,28.91
+411,Stiedemann Group,17.53,3.52
+412,Jacobi and Sons,12.49,34.77
+413,Emmerich-Ryan,30.26,34.5
+414,"Frami, Heaney and Ullrich",23.77,28.27
+415,Keeling-O'Conner,11.13,27.14
+416,Muller-Zboncak,2.44,33.71
+417,"Osinski, Walter and Greenholt",16.13,10.21
+418,"Witting, Schmitt and Leffler",21.53,29.73
+419,Hauck Inc,19.23,20.93
+420,Effertz and Sons,22.4,26.17
+421,Ebert LLC,20.78,3.94
+422,Fahey and Sons,29.63,34.34
+423,Keeling Group,15.81,25.43
+424,"Stoltenberg, Rath and Hettinger",4.35,24.67
+425,Windler-Renner,25.56,18.7
+426,Ondricka Inc,23.69,10.32
+427,Bosco LLC,16.21,5.73
+428,Gottlieb and Sons,25.72,34.58
+429,"Toy, Simonis and Gorczany",9.58,10.33
+430,Bartoletti Group,19.55,33.96
+431,Nader-Stanton,2.81,29.68
+432,Hilpert and Sons,18.61,26.71
+433,Ward-Prohaska,16.38,26.33
+434,Feeney LLC,27.82,6.79
+435,Will-Fahey,7.88,22.23
+436,Kerluke-Lynch,20.05,19.86
+437,O'Keefe-Wolff,33.87,1.27
+438,Monahan-Pacocha,18.71,2.88
+439,"Adams, West and Kuhn",12.65,18.94
+440,Wintheiser Inc,30.35,6.26
+441,West-Funk,30.65,22.62
+442,"Beatty, Stroman and Nolan",34.83,15.93
+443,McDermott-Heller,6.64,24.64
+444,"Blick, Zboncak and Wunsch",26.33,3.46
+445,Rogahn Inc,33.26,25.17
+446,Maggio-Reinger,9.66,22.34
+447,Harris-Nader,32.14,9.71
+448,Gerhold-Adams,27.65,11.1
+449,Welch and Sons,16.11,32.92
+450,Champlin Group,21.39,2.77
+451,Sanford LLC,10.98,5.15
+452,Murphy Group,3.57,31.93
+453,Willms-Heidenreich,33.87,17.66
+454,Sawayn Group,16.67,10.74
+455,Cassin Group,0.4,24.15
+456,"Pacocha, Schamberger and Larkin",16.61,14.73
+457,Moen LLC,6.61,29.03
+458,Friesen Inc,2.77,13.07
+459,Mueller LLC,22.62,10.22
+460,Krajcik Group,26.26,22.44
+461,"Gulgowski, Botsford and Rohan",16.77,5.08
+462,Gislason and Sons,28.68,34.05
+463,Metz-Schamberger,27.67,24.07
+464,"King, Olson and Heaney",7.01,20.81
+465,"Gislason, Cartwright and Torp",17.43,25.25
+466,Muller Group,25.78,0.36
+467,O'Hara-Kohler,29.87,21.04
+468,Ziemann-Block,22.6,26.47
+469,Runte and Sons,17.97,19.88
+470,Kutch Group,0.19,22.81
+471,Larkin-Effertz,22.53,22.26
+472,Goodwin Inc,7.75,22.36
+473,"Turner, Steuber and Considine",12.61,7.56
+474,Walsh LLC,17.4,20.11
+475,"Stark, Mayert and Harris",19.65,8.6
+476,"Padberg, Frami and Turcotte",16.41,27.3
+477,"Crist, Fay and Terry",27.02,8.19
+478,Nikolaus Group,27.22,6.43
+479,"VonRueden, VonRueden and Herman",10.04,21.56
+480,Heller and Sons,8.91,28.18
+481,Maggio Inc,1.29,26.57
+482,Funk LLC,20.11,5.55
+483,"Gottlieb, Kub and Hegmann",20.5,15.57
+484,"Stroman, Feest and Hilll",23.7,8.96
+485,Lindgren-Schiller,34.8,8.98
+486,MacGyver-Rempel,1.62,7.11
+487,"Kling, Davis and Paucek",19.03,0.11
+488,"Murphy, Hauck and Marquardt",10.54,3.92
+489,"Sanford, Osinski and Schumm",3.1,26.9
+490,Cole-O'Keefe,3.46,2.08
+491,Herzog-Marks,31.24,20.26
+492,"Beahan, DuBuque and Kohler",22.9,23.47
+493,"Torphy, Hayes and Koss",31.05,10.57
+494,"Wolff, Williamson and O'Reilly",19.39,10.15
+495,Walker LLC,29.61,23.35
+496,Kuvalis Inc,24.7,15.27
+497,Muller Inc,33.8,19.2
+498,"Schowalter, Brakus and Nienow",16.02,6.34
+499,Christiansen-Ondricka,16.69,19.85
+500,Tillman-Douglas,10.74,18.37
+501,Altenwerth-Corkery,18.22,8.4
+502,"Yundt, Cole and Grant",9.72,21.39
+503,Okuneva-VonRueden,24.29,0.76
+504,"McGlynn, Ebert and Breitenberg",33.77,20.2
+505,"Morar, Rutherford and Feeney",27.81,5.99
+506,Raynor-Balistreri,30.15,17.72
+507,Satterfield-Littel,33.25,34.74
+508,Marquardt Inc,0.43,2.27
+509,"Barrows, Gulgowski and Ferry",33.46,17.58
+510,Macejkovic-Frami,11.21,11.03
+511,O'Kon and Sons,9.31,4.27
+512,Schultz-Lang,24.72,11.9
+513,Gottlieb LLC,13.13,5.79
+514,Willms LLC,13.38,13.79
+515,"Fay, Kilback and Quigley",32.82,27.84
+516,"Huels, Hahn and Jenkins",21.04,19.47
+517,Kub-Hackett,33.8,15.33
+518,"Bradtke, Stokes and McKenzie",15.98,3.27
+519,Vandervort-Kemmer,34.05,3.36
+520,Boyle-Marquardt,3.59,29.8
+521,Hane and Sons,1.52,17.57
+522,Witting-Larson,26.06,4.65
+523,Conn Group,31.88,10.65
+524,Sporer LLC,18.24,0.6
+525,Hayes-Fritsch,11.36,29.56
+526,Swaniawski LLC,31.09,28.53
+527,Hammes-Boehm,6.05,21.76
+528,Kirlin Inc,10.23,6.53
+529,Murphy-Hoeger,21.82,20.98
+530,Sipes-Yundt,28.38,15.34
+531,Tillman Inc,34.19,3.01
+532,"Schneider, Hudson and Friesen",2.49,2.9
+533,"Hoppe, Mraz and Ebert",19.09,23.05
+534,"Dietrich, Thiel and Haag",29.99,6.38
+535,Schmitt-Howe,1.68,23.32
+536,Wisoky Group,9.98,16.54
+537,Gislason Group,3.4,6.63
+538,Jacobi Inc,3.8,14.87
+539,Mraz Inc,12.83,6.84
+540,"Collier, Waters and Gutkowski",7.37,23.19
+541,"McKenzie, King and Bergstrom",27.01,6.5
+542,"McClure, Emmerich and Lehner",2.06,0.92
+543,Deckow Group,21.65,30.04
+544,Bruen-Mosciski,22.82,22.58
+545,Moen and Sons,17.69,29.41
+546,Ernser-Hegmann,11.5,1.93
+547,"Reinger, Abshire and Murray",28.94,10.7
+548,Pollich-Boehm,5.38,12.57
+549,"Hansen, Hansen and VonRueden",30.87,20.01
+550,Kemmer and Sons,4.57,20.22
+551,McDermott LLC,21.32,3.21
+552,"Muller, O'Connell and Mertz",16.74,19.39
+553,Emmerich LLC,3.03,6.93
+554,"Hirthe, Klein and Bogisich",27.05,19.98
+555,"Dibbert, Ortiz and Mosciski",0.01,5.66
+556,"Kuphal, Bradtke and Rau",20.79,25.97
+557,"Purdy, Gibson and Funk",15.91,29.95
+558,Kilback Inc,12.19,2.96
+559,"Pfannerstill, Wolff and Farrell",33.49,11.71
+560,Sanford Group,33.15,5.28
+561,"Murazik, Vandervort and Barrows",2.83,7.42
+562,Johns LLC,12.19,15.94
+563,Deckow-Haag,14.38,27.25
+564,"Kub, Feeney and Reilly",8.05,1.35
+565,Gleichner Group,25.88,1.57
+566,"MacGyver, Blick and Walker",19.63,22.75
+567,Stanton-Heidenreich,24.37,7.78
+568,Satterfield-Boyer,14.3,2.24
+569,Dare Inc,12.09,19.28
+570,Heaney-Harber,34.92,17.1
+571,Koss Group,1.13,34.19
+572,"Romaguera, Wuckert and Cassin",19.4,24.51
+573,Reynolds Group,13.35,18.68
+574,"Wuckert, Towne and Reilly",7.45,27.62
+575,Legros LLC,8.39,2.63
+576,"Lockman, MacGyver and Rodriguez",27.43,2.25
+577,Beahan-Gorczany,13.83,8.86
+578,"Stanton, Wilderman and Johnston",19.67,32.5
+579,Glover-Reynolds,29.1,26.91
+580,Waelchi-Bartoletti,13.75,31.78
+581,Satterfield LLC,6.29,13.26
+582,Gutmann-Trantow,24.52,32.24
+583,"Kassulke, Koch and Kautzer",33.34,22.77
+584,Rutherford Inc,30.15,27.52
+585,Keeling Inc,24.82,15.25
+586,"Leannon, Trantow and Lemke",33.84,17.39
+587,"Weimann, Ruecker and Schneider",20.43,12.58
+588,"Waters, Gaylord and Watsica",31.8,0.1
+589,"Grady, Denesik and VonRueden",28.85,31.95
+590,Bernhard-Harber,11.59,34.12
+591,Schowalter Inc,1.24,6.64
+592,Dare and Sons,30.24,7.04
+593,Glover LLC,31.13,18.59
+594,Schuppe Inc,15.05,16.39
+595,O'Conner LLC,20.09,34.8
+596,Walter Group,20.96,6.55
+597,Dietrich and Sons,4.77,16.52
+598,Larkin LLC,13.71,12.83
+599,Trantow and Sons,0.25,6.14
+600,Deckow-Schroeder,33.57,32.75
+601,Lemke-Schinner,22.28,9.31
+602,O'Hara and Sons,25.15,2.65
+603,Greenfelder-Paucek,28.57,26.1
+604,Kub-Adams,0.17,4.53
+605,Ortiz Inc,11.91,3.34
+606,"Skiles, Herzog and Reilly",25.67,11.66
+607,Beatty and Sons,28.07,26.76
+608,Gleason Group,33.95,0.05
+609,"Quitzon, Corwin and Schimmel",15.27,9.01
+610,"Schmeler, Klein and Purdy",6.12,32.33
+611,MacGyver Inc,10.48,8.62
+612,"Stokes, Zulauf and Abbott",27.05,24.11
+613,"Funk, Williamson and Sanford",27.83,24.43
+614,Gutmann-Rath,13.8,20.64
+615,"Swaniawski, Flatley and Klocko",4.92,13.46
+616,"Beer, Stoltenberg and Dibbert",10.82,7.56
+617,"Franecki, Little and Kemmer",22.63,13.66
+618,"Vandervort, Becker and Lakin",17.97,33.85
+619,"O'Hara, Marvin and Terry",24.68,1.18
+620,Ullrich-Strosin,16.45,30.26
+621,Will LLC,27.15,6.65
+622,Feeney-Dach,18.24,12.0
+623,Gaylord Group,12.92,10.71
+624,"Braun, Kertzmann and Carter",28.42,33.21
+625,"Monahan, MacGyver and Ruecker",21.39,4.8
+626,Lakin-Douglas,9.53,32.3
+627,"Homenick, Thompson and Kuhlman",17.96,30.91
+628,Walter Inc,4.34,17.59
+629,O'Hara LLC,32.07,25.07
+630,Bartoletti-Haley,25.87,8.38
+631,Batz Inc,14.35,22.46
+632,"Veum, Boehm and Ondricka",30.52,1.45
+633,"Hilpert, Konopelski and Rohan",20.21,30.65
+634,Osinski and Sons,2.62,5.59
+635,Skiles and Sons,4.2,20.64
+636,Boyle Group,17.34,13.87
+637,Connelly-Goyette,24.36,10.93
+638,Rohan Group,8.37,15.3
+639,Botsford LLC,14.59,1.94
+640,Collins and Sons,7.66,34.7
+641,Trantow Group,9.11,18.06
+642,Metz-Crist,25.17,9.04
+643,Heller and Sons,21.84,15.78
+644,Dare LLC,9.44,6.3
+645,Runte-Durgan,7.75,11.93
+646,Waelchi and Sons,12.51,5.0
+647,"Boehm, Swaniawski and Hand",24.13,24.39
+648,Crona-Rogahn,13.59,28.87
+649,"Grant, Beahan and Wilkinson",15.3,9.37
+650,"Schmeler, Wunsch and Osinski",16.53,28.09
+651,Schoen-Cartwright,23.34,0.65
+652,"Runte, Hickle and Towne",0.34,22.03
+653,"Rodriguez, Treutel and Blanda",2.13,23.27
+654,Rutherford-Ruecker,18.53,20.8
+655,Lehner and Sons,30.19,19.02
+656,"Kozey, Cruickshank and Ferry",13.1,30.58
+657,Lowe-Bergnaum,8.14,3.18
+658,Wolff-Hauck,24.83,32.35
+659,Kozey-Homenick,29.33,7.58
+660,"Casper, VonRueden and Carroll",25.9,12.98
+661,Towne and Sons,21.72,21.28
+662,Mante-Barton,2.14,8.16
+663,Hodkiewicz Inc,10.48,13.89
+664,"Kiehn, McKenzie and Kemmer",7.0,24.65
+665,Ziemann-Hettinger,10.63,7.73
+666,"Batz, Walter and Leuschke",7.13,3.14
+667,Dach-Towne,9.06,22.84
+668,"Glover, Rohan and Luettgen",24.27,22.61
+669,Klein-Rolfson,2.67,26.0
+670,"Kohler, Braun and Walker",10.27,28.44
+671,Osinski-Lueilwitz,27.95,18.77
+672,"Dicki, Cassin and Considine",21.89,22.67
+673,Kuphal Inc,16.04,0.36
+674,"Ferry, Borer and Hodkiewicz",31.46,18.16
+675,Considine-Abbott,16.86,32.48
+676,"Ernser, Bergnaum and Wunsch",11.17,1.22
+677,"Will, Christiansen and Steuber",28.13,9.03
+678,McLaughlin LLC,28.18,27.78
+679,"Little, McClure and Morar",33.96,21.15
+680,Champlin-Hermiston,15.76,20.18
+681,Weimann-Larson,29.82,13.17
+682,"Bode, Moen and Legros",29.72,14.98
+683,Hammes LLC,34.39,23.17
+684,"Rath, Schimmel and Auer",13.12,9.8
+685,"Goyette, Kirlin and Davis",5.4,7.22
+686,"Gerlach, Abernathy and Barrows",32.11,24.25
+687,Waelchi-Kessler,3.78,15.56
+688,Emard-Nienow,26.76,0.86
+689,"Muller, Schmeler and Luettgen",34.4,24.58
+690,Abbott-Will,6.77,8.08
+691,McKenzie and Sons,19.48,14.84
+692,Schoen LLC,18.66,4.3
+693,"Ferry, Gaylord and White",11.82,17.47
+694,Bailey and Sons,9.33,33.03
+695,"Marvin, Huel and Ondricka",6.31,31.87
+696,"Lindgren, Zboncak and Collins",24.37,1.49
+697,Kessler-Sauer,12.58,33.77
+698,Funk-Johns,17.75,20.0
+699,"Koelpin, Leannon and Stroman",31.6,0.29
+700,Waters and Sons,28.24,33.91
+701,Steuber-King,21.24,3.25
+702,Bauch-Von,22.25,14.77
+703,Farrell and Sons,3.25,11.7
+704,"Brown, Bergnaum and Prosacco",24.75,25.52
+705,"Olson, Satterfield and Stehr",20.28,15.38
+706,"Hand, Satterfield and Stark",2.72,11.32
+707,"Grimes, Sporer and Howell",19.7,10.24
+708,Rolfson Inc,27.52,19.68
+709,"Deckow, Weimann and Wisozk",2.4,14.3
+710,Pagac Group,29.64,31.93
+711,Dickinson-Reinger,9.72,30.11
+712,"Smitham, Rolfson and Becker",0.58,31.88
+713,"Waters, Blick and Weissnat",31.33,19.87
+714,O'Keefe and Sons,3.9,0.99
+715,McGlynn LLC,14.05,7.05
+716,Hartmann and Sons,33.47,3.06
+717,Ferry Inc,22.82,14.7
+718,Herman LLC,5.6,17.04
+719,Beier-Zemlak,8.94,25.61
+720,Watsica-West,5.73,15.2
+721,"Green, Rempel and Kautzer",6.86,9.1
+722,"Lockman, Lynch and Haley",19.4,7.52
+723,"Reinger, Pfannerstill and Brakus",8.77,19.1
+724,"Zieme, Schimmel and Zemlak",8.17,9.57
+725,"Marks, Mohr and Mann",19.13,24.4
+726,Runte and Sons,28.2,6.53
+727,Gottlieb-Maggio,32.42,1.37
+728,Renner-McGlynn,20.4,21.18
+729,"Hoeger, Murazik and Treutel",9.33,20.03
+730,"Predovic, West and Kuhn",27.54,19.24
+731,Hackett Inc,32.26,4.63
+732,Turcotte-Weissnat,20.72,30.38
+733,Block Group,1.75,31.18
+734,Deckow Group,34.25,16.94
+735,D'Amore Inc,20.69,9.98
+736,Friesen Group,7.95,27.04
+737,Olson Group,8.71,17.12
+738,Predovic and Sons,23.1,13.86
+739,Boehm-Schaden,30.31,20.08
+740,"Kihn, Effertz and Murray",24.47,33.36
+741,Hegmann Group,6.21,8.58
+742,"Zulauf, Stamm and Rutherford",11.58,3.44
+743,"Leffler, Nitzsche and Keebler",2.19,28.14
+744,McGlynn-Price,8.81,16.82
+745,Hessel-Stamm,25.53,21.25
+746,Wiza Group,27.46,25.59
+747,Haley LLC,17.01,10.76
+748,Legros and Sons,22.77,20.63
+749,"Christiansen, Kohler and Lehner",32.99,7.82
+750,"Corkery, Klein and Ruecker",29.02,13.57
+751,Rutherford-McLaughlin,15.58,11.98
+752,Cormier-Botsford,5.67,33.62
+753,"Runolfsdottir, Nikolaus and Von",4.5,28.94
+754,Hessel-Kling,32.5,18.54
+755,Connelly-Casper,30.93,7.15
+756,Davis Group,23.12,32.98
+757,Toy-Pacocha,33.73,29.6
+758,"Witting, Thiel and Trantow",5.42,6.39
+759,"Hermiston, McCullough and Rowe",4.7,30.36
+760,O'Kon Inc,8.76,24.27
+761,Hodkiewicz-Harris,30.76,19.59
+762,Boyle LLC,21.11,8.26
+763,"Rogahn, Larson and Medhurst",26.51,11.57
+764,"Parisian, Heller and Gulgowski",11.16,25.58
+765,Hansen-Carroll,10.11,5.07
+766,Schmitt-Fisher,19.58,15.64
+767,Carter-Bradtke,14.11,32.69
+768,McKenzie-Mohr,20.28,34.2
+769,"Hilll, Torp and Gulgowski",0.52,25.02
+770,Hartmann Inc,26.25,1.38
+771,Denesik and Sons,7.63,23.18
+772,Dicki and Sons,9.71,34.59
+773,Kuhic Group,9.88,4.41
+774,"Harris, Quitzon and Johns",5.15,4.07
+775,Keeling Inc,15.96,6.79
+776,"Roberts, Turner and Sporer",0.53,5.6
+777,"Koepp, Howell and Vandervort",20.02,24.74
+778,Johns-Larson,0.56,26.63
+779,Prohaska-Sanford,9.64,30.15
+780,"Sanford, Reilly and Gerhold",11.08,20.05
+781,"Reinger, Tremblay and Pagac",30.33,12.07
+782,Jakubowski LLC,1.76,25.17
+783,"Vandervort, Fahey and Cormier",16.51,31.15
+784,"Torphy, Connelly and Pfeffer",13.34,11.06
+785,Wisozk LLC,34.47,19.21
+786,Witting-Fisher,13.61,25.46
+787,Boehm Inc,21.5,11.09
+788,Batz-Konopelski,34.13,26.74
+789,Bayer and Sons,11.87,1.68
+790,"Wilkinson, Hamill and Ryan",21.03,20.46
+791,"Beier, Hilpert and Lynch",12.52,23.07
+792,Lueilwitz-Collins,28.55,30.76
+793,"Friesen, Kulas and Heidenreich",9.78,4.04
+794,"Welch, Mosciski and Stracke",28.63,1.44
+795,Mills-Mitchell,18.7,8.52
+796,"Mitchell, Runte and Donnelly",4.06,18.58
+797,Rowe-Stark,15.49,31.91
+798,"Feest, Lockman and Braun",22.42,30.83
+799,"Koss, Schaden and Ortiz",26.99,21.01
+800,Beahan and Sons,10.1,28.94
+801,Aufderhar-Bernhard,5.55,0.51
+802,Tromp and Sons,26.27,8.99
+803,"Runte, Mayer and Wiegand",31.84,16.64
+804,Price Group,23.11,18.71
+805,"Bauch, Schiller and Emard",1.09,2.12
+806,Gutkowski-Kunze,10.55,4.04
+807,Farrell-Zemlak,29.22,30.33
+808,Heller-Marvin,8.57,7.05
+809,Watsica and Sons,13.79,29.97
+810,Abbott-Kozey,0.2,8.17
+811,"VonRueden, Block and Carroll",16.87,11.56
+812,McCullough-Kshlerin,32.85,31.63
+813,"Rutherford, Windler and Hane",29.6,8.9
+814,"Tillman, Herman and Grimes",11.42,1.52
+815,Baumbach LLC,0.15,13.97
+816,"Okuneva, Price and West",31.78,2.96
+817,Gislason-Reinger,13.71,1.35
+818,Rodriguez LLC,25.85,2.63
+819,"Spencer, O'Reilly and Wunsch",1.94,9.37
+820,Schultz-Crooks,33.93,13.81
+821,"Bayer, Ziemann and Sporer",0.53,1.37
+822,"Borer, Abernathy and Streich",13.44,0.53
+823,Treutel and Sons,28.62,24.81
+824,Stanton-Will,23.41,5.31
+825,"Mitchell, Runte and Fay",15.48,14.39
+826,Hessel Inc,22.32,17.64
+827,Cronin-Hahn,1.42,34.72
+828,Haley Inc,24.26,0.54
+829,"Johnson, Shanahan and Kshlerin",23.33,11.87
+830,Torp-Goldner,6.87,4.2
+831,Fritsch Group,5.0,19.95
+832,Kovacek and Sons,2.72,33.25
+833,Rice LLC,10.48,17.1
+834,Mueller LLC,18.58,20.26
+835,"Pouros, Hills and Reichel",23.36,9.33
+836,Schinner-Bogan,20.62,2.38
+837,Schamberger Group,11.55,16.07
+838,"Bailey, Farrell and Schultz",0.66,31.9
+839,Thompson LLC,30.28,0.29
+840,Ritchie-Russel,4.8,11.29
+841,"Russel, Bins and Hartmann",20.08,4.08
+842,Will and Sons,34.97,0.03
+843,"Halvorson, Shanahan and Feest",10.9,17.51
+844,"Reynolds, Cummings and Beier",11.22,6.24
+845,Stamm and Sons,25.52,3.7
+846,Boehm-Quitzon,15.5,11.8
+847,"Pouros, Koepp and Sauer",3.81,34.25
+848,"McGlynn, Baumbach and Swaniawski",17.03,6.72
+849,Ortiz-Wolf,10.54,14.52
+850,Gerhold-Koelpin,12.04,8.02
+851,Block-Hahn,8.62,26.91
+852,Legros-Miller,26.66,32.54
+853,Anderson Group,32.18,21.96
+854,Sporer-Sporer,4.59,19.01
+855,Brakus and Sons,6.2,2.74
+856,"Kohler, Goyette and Eichmann",21.68,22.6
+857,Wolf and Sons,7.72,32.81
+858,Keeling-Greenfelder,12.52,27.09
+859,Buckridge-Bayer,4.56,28.94
+860,"Parker, Renner and Mertz",14.1,6.34
+861,Daniel LLC,26.67,10.03
+862,Becker-Herzog,14.68,14.52
+863,Bednar-Pfannerstill,32.5,29.51
+864,Renner-Murazik,15.73,27.71
+865,"Braun, Upton and Yundt",18.7,20.82
+866,Davis Group,27.9,20.93
+867,Nienow Group,17.19,23.44
+868,Berge Inc,28.55,29.74
+869,Schaefer and Sons,10.24,29.15
+870,Lakin Inc,27.74,11.48
+871,"Heidenreich, Denesik and Lowe",0.01,32.78
+872,Grady-Marks,19.26,4.87
+873,Christiansen-Bahringer,2.8,12.41
+874,Stamm-Schaefer,32.36,3.89
+875,"Stiedemann, Ullrich and Koelpin",27.28,13.81
+876,Davis-Bogan,2.21,0.72
+877,Stroman-Douglas,2.68,4.55
+878,Rutherford-Borer,22.81,16.62
+879,"Graham, Durgan and Reinger",17.54,27.21
+880,Grady Inc,6.8,23.47
+881,"Hoppe, Emard and Schuster",14.64,13.21
+882,Krajcik Group,10.01,4.41
+883,Cummerata Group,12.96,17.08
+884,"Medhurst, Ortiz and Blanda",10.94,20.28
+885,"Sawayn, Gleason and Sanford",34.01,5.96
+886,Hilll Group,21.07,18.4
+887,Doyle-Dicki,14.12,0.61
+888,"Nitzsche, Blick and Veum",5.05,30.65
+889,Flatley and Sons,21.35,8.87
+890,"Purdy, Hansen and Barton",32.62,13.05
+891,"Friesen, Labadie and Ondricka",29.87,20.83
+892,"Prohaska, Hackett and Frami",5.01,26.69
+893,Thompson and Sons,2.06,0.23
+894,Willms-Jacobs,15.53,21.06
+895,Rohan LLC,10.68,20.96
+896,Beahan-Casper,32.56,14.47
+897,"Zemlak, Dooley and Christiansen",22.89,31.3
+898,Wyman LLC,27.48,9.76
+899,"McLaughlin, Medhurst and Shields",4.82,26.66
+900,Auer-Morar,28.14,34.19
+901,Hintz-Mante,12.61,33.23
+902,Kassulke-Wuckert,0.19,18.01
+903,Windler-Koelpin,1.32,11.7
+904,Schneider-Lemke,25.32,19.74
+905,Ruecker-Schumm,15.53,32.33
+906,"Lowe, Koelpin and Spencer",32.93,11.01
+907,Kassulke-Pacocha,29.46,24.19
+908,Treutel Group,16.6,24.52
+909,"Zulauf, Mohr and Russel",7.48,11.53
+910,"Schmeler, Langworth and Muller",23.12,5.28
+911,Hayes-Beier,23.39,19.84
+912,"Howell, Schuppe and O'Connell",20.93,1.89
+913,Erdman LLC,14.93,6.93
+914,Greenholt-Champlin,33.33,29.0
+915,"Swaniawski, Heaney and Thiel",10.77,9.61
+916,"Gulgowski, Donnelly and Gaylord",4.65,7.91
+917,"Gottlieb, Willms and Jaskolski",10.07,17.68
+918,"Bernier, O'Connell and Torphy",32.88,11.97
+919,Stiedemann Inc,19.45,27.05
+920,Block-Treutel,32.91,17.39
+921,Schmitt-Goldner,29.02,4.51
+922,McLaughlin-Weber,32.0,20.18
+923,Bernier-Jacobi,4.42,11.77
+924,"Vandervort, Waters and Weber",15.32,15.13
+925,"Wyman, D'Amore and Cassin",0.58,3.43
+926,Gutmann-Schaden,29.29,34.16
+927,Oberbrunner-Bayer,15.23,34.29
+928,"Bernier, Witting and Tillman",33.78,24.57
+929,DuBuque Inc,15.85,20.29
+930,Upton and Sons,6.69,3.85
+931,Cummings-Barrows,0.48,13.74
+932,Leuschke and Sons,2.87,0.36
+933,"Goyette, Emmerich and Hills",14.46,34.7
+934,Goldner-Okuneva,25.42,8.11
+935,Wyman-Deckow,0.42,24.7
+936,"Wehner, Jacobs and Fritsch",7.77,26.14
+937,"Kirlin, Weimann and Steuber",9.4,33.99
+938,Rodriguez Inc,0.88,31.1
+939,Gleason-O'Kon,7.38,1.05
+940,Davis-Boehm,8.77,4.96
+941,Schinner-Gaylord,31.13,16.45
+942,"Huel, Abbott and Schowalter",28.1,3.73
+943,"Wilderman, Boehm and Fahey",11.89,31.98
+944,Gorczany-Pollich,7.33,34.64
+945,Aufderhar LLC,1.55,17.11
+946,"Oberbrunner, Dach and Kuhic",10.24,14.15
+947,"Tremblay, Schaden and Ernser",15.54,28.1
+948,"Fahey, Grady and Luettgen",1.85,31.3
+949,Wyman-Roob,16.11,4.32
+950,Grady-Witting,18.69,27.49
+951,Rogahn Inc,20.11,32.58
+952,"Beer, Schimmel and Rippin",6.64,7.74
+953,"Simonis, Hegmann and Roob",11.61,9.43
+954,Cormier-Volkman,6.84,23.71
+955,Upton Inc,20.53,20.48
+956,Block and Sons,14.63,28.75
+957,"Frami, Macejkovic and Quitzon",13.35,12.72
+958,Hahn-Pacocha,32.44,21.22
+959,Schuster and Sons,19.82,21.72
+960,Corwin-Turner,32.61,33.15
+961,"Lind, Stiedemann and Tremblay",2.58,32.83
+962,Moore and Sons,5.08,16.89
+963,"Russel, Torphy and Goldner",17.91,10.94
+964,Eichmann Group,24.75,30.8
+965,"Stiedemann, Schulist and Koelpin",10.63,18.26
+966,Price and Sons,15.58,22.44
+967,"Hammes, Abernathy and Friesen",3.04,30.51
+968,"Corwin, Kunze and Collier",2.53,34.56
+969,Rogahn-Nikolaus,26.51,19.18
+970,"McDermott, Prohaska and Jacobi",16.81,1.18
+971,Walker-Thiel,33.86,24.18
+972,Stoltenberg Group,8.44,9.16
+973,"Hackett, Satterfield and Hayes",29.17,20.59
+974,Bayer-Moen,17.82,4.76
+975,Schimmel Group,2.66,3.3
+976,Orn Group,7.96,10.22
+977,Klocko Inc,9.27,27.81
+978,Beier LLC,31.42,24.25
+979,"Bahringer, Parker and Olson",26.53,21.96
+980,Leannon LLC,19.18,26.82
+981,Grimes Group,21.55,6.91
+982,Anderson and Sons,32.69,22.3
+983,"Donnelly, Predovic and Harris",9.71,19.99
+984,Waelchi-Swift,24.5,27.91
+985,Maggio Inc,19.3,26.03
+986,Kihn-Hahn,28.26,22.54
+987,Prosacco Group,32.14,11.66
+988,"Daniel, Cronin and Kohler",14.87,30.52
+989,"Glover, Buckridge and Goldner",21.53,28.86
+990,Kovacek Group,21.19,19.82
+991,Schaefer Inc,15.12,1.33
+992,"Keeling, Brown and MacGyver",3.77,16.27
+993,Cassin LLC,4.85,7.18
+994,Ratke-Maggio,32.43,29.89
+995,Hirthe-Moen,22.5,31.45
+996,Will-Blanda,30.74,6.62
+997,Powlowski Inc,15.41,20.3
+998,Leannon and Sons,18.77,4.45
+999,Upton Group,18.89,11.78
+1000,"Stamm, Murazik and Homenick",9.42,13.54

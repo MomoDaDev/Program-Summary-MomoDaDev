@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="optionspane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Options">
+   <children>
+      <ComboBox layoutX="150.0" layoutY="118.0" prefWidth="150.0" promptText="5" />
+      <Label layoutX="14.0" layoutY="122.0" text="Label" textFill="WHITE" />
+      <ComboBox layoutX="150.0" layoutY="188.0" prefWidth="150.0" promptText="5" />
+      <Label layoutX="14.0" layoutY="192.0" text="Label" />
+      <Label layoutX="14.0" layoutY="262.0" text="Label" />
+      <ComboBox layoutX="150.0" layoutY="258.0" prefWidth="150.0" />
+      <Label layoutX="14.0" layoutY="332.0" text="Label" />
+      <ComboBox layoutX="150.0" layoutY="328.0" prefWidth="150.0" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="340.0" layoutY="47.0" pickOnBounds="true" preserveRatio="true" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+        <tabs>
+            <Tab text="Select">
+                <AnchorPane>
+                    <children>
+                <TextField fx:id="tfAtribut" layoutX="14.0" layoutY="73.0" prefHeight="25.0" prefWidth="432.0" promptText="Atribut" />
+                <TextField fx:id="tfTable" layoutX="14.0" layoutY="111.0" prefHeight="25.0" prefWidth="432.0" promptText="Table" />
+                <TextField fx:id="tfCondition" layoutX="14.0" layoutY="149.0" prefHeight="25.0" prefWidth="432.0" promptText="Condition" />
+                <Label layoutX="456.0" layoutY="73.0" text="select ...">
+                    <font>
+                        <Font size="16.0" />
+                    </font>
+                </Label>
+                <Label layoutX="456.0" layoutY="111.0" text="from ...">
+                    <font>
+                        <Font size="16.0" />
+                    </font>
+                </Label>
+                <Label layoutX="456.0" layoutY="149.0" text="where ...">
+                    <font>
+                        <Font size="16.0" />
+                    </font>
+                </Label>
+                <Button fx:id="bntConfirm" layoutX="14.0" layoutY="187.0" mnemonicParsing="false" onAction="#onConfirm" prefHeight="25.0" prefWidth="94.0" text="Confirm" />
+                <Label fx:id="lbconnString" alignment="TOP_LEFT" layoutX="129.0" layoutY="187.0" prefHeight="66.0" prefWidth="432.0">
+                    <font>
+                        <Font size="16.0" />
+                    </font>
+                </Label>
+                <TextArea fx:id="taOutput" editable="false" layoutX="14.0" layoutY="263.0" prefHeight="351.0" prefWidth="574.0" wrapText="true">
+                    <font>
+                        <Font name="Courier New" size="12.0" />
+                    </font></TextArea>
+                <Label layoutX="14.0" layoutY="225.0" text="Output:">
+                    <font>
+                        <Font size="16.0" />
+                    </font>
+                </Label>
+                <Label layoutX="14.0" layoutY="15.0" text="TROE Java Database Connectivity">
+                    <font>
+                        <Font size="28.0" />
+                    </font>
+                </Label>
+                <Label fx:id="lberrorMsg" alignment="TOP_LEFT" layoutX="14.0" layoutY="624.0" prefHeight="410.0" prefWidth="600.0" text="no errors">
+                    <font>
+                        <Font size="16.0" />
+                    </font>
+                </Label>
+                    </children>
+                </AnchorPane>
+            </Tab>
+            <Tab text="Insert">
+                <AnchorPane>
+                    <children>
+                        <TextField fx:id="tfinsertvalues" layoutX="14.0" layoutY="73.0" prefHeight="25.0" prefWidth="432.0" promptText="(example: 4, '2021-01-01','2021-01-31',200)" />
+                        <TextField fx:id="tfinserttable" layoutX="14.0" layoutY="111.0" prefHeight="25.0" prefWidth="432.0" promptText="(example: Preise)" />
+                        <Label layoutX="450.0" layoutY="69.0" text="VALUES">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="456.0" layoutY="111.0" text="TABLE">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Button fx:id="onInsertConfirm" layoutX="14.0" layoutY="187.0" mnemonicParsing="false" onAction="#onInsertConfirm" prefHeight="25.0" prefWidth="94.0" text="Confirm" />
+                        <Label alignment="TOP_LEFT" layoutX="129.0" layoutY="187.0" prefHeight="66.0" prefWidth="432.0">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <TextArea fx:id="tainsertOutput" editable="false" layoutX="14.0" layoutY="263.0" prefHeight="351.0" prefWidth="574.0" wrapText="true">
+                            <font>
+                                <Font name="Courier New" size="12.0" />
+                            </font></TextArea>
+                        <Label layoutX="14.0" layoutY="225.0" text="Output:">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="14.0" layoutY="15.0" text="TROE Java Database Connectivity">
+                            <font>
+                                <Font size="28.0" />
+                            </font>
+                        </Label>
+                        <Label alignment="TOP_LEFT" layoutX="14.0" layoutY="624.0" prefHeight="410.0" prefWidth="600.0" text="no errors">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                    </children>
+                </AnchorPane>
+            </Tab>
+            <Tab text="Update">
+                <AnchorPane>
+                    <children>
+                        <TextField fx:id="tfupdatetable" layoutX="14.0" layoutY="73.0" prefHeight="25.0" prefWidth="432.0" promptText="(example: Artikel)" />
+                        <TextField fx:id="tfupdatestatement" layoutX="14.0" layoutY="111.0" prefHeight="25.0" prefWidth="432.0" promptText="(example: Bezeichnung='Karotte')" />
+                        <TextField fx:id="tfupdatecondition" layoutX="14.0" layoutY="149.0" prefHeight="25.0" prefWidth="432.0" promptText="(example: anr=1)" />
+                        <Label layoutX="456.0" layoutY="73.0" text="UPDATE TABLE">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="456.0" layoutY="111.0" text="STATEMENT">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="456.0" layoutY="149.0" text="WHERE">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Button fx:id="onUpdateConfirm" layoutX="14.0" layoutY="187.0" mnemonicParsing="false" onAction="#onUpdateConfirm" prefHeight="25.0" prefWidth="94.0" text="Confirm" />
+                        <Label alignment="TOP_LEFT" layoutX="129.0" layoutY="187.0" prefHeight="66.0" prefWidth="432.0">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <TextArea fx:id="taupdateOutput" editable="false" layoutX="14.0" layoutY="263.0" prefHeight="351.0" prefWidth="574.0" wrapText="true">
+                            <font>
+                                <Font name="Courier New" size="12.0" />
+                            </font></TextArea>
+                        <Label layoutX="14.0" layoutY="225.0" text="Output:">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="14.0" layoutY="15.0" text="TROE Java Database Connectivity">
+                            <font>
+                                <Font size="28.0" />
+                            </font>
+                        </Label>
+                        <Label alignment="TOP_LEFT" layoutX="14.0" layoutY="624.0" prefHeight="410.0" prefWidth="600.0" text="no errors">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                    </children>
+                </AnchorPane>
+            </Tab>
+            <Tab text="Delete">
+                <AnchorPane>
+                    <children>
+                        <TextField fx:id="tfdeletetable" layoutX="14.0" layoutY="73.0" prefHeight="25.0" prefWidth="432.0" promptText="(example: Artikel)" />
+                        <TextField fx:id="tfdeletecondition" layoutX="14.0" layoutY="111.0" prefHeight="25.0" prefWidth="432.0" promptText="(example: Bezeichnung='Karotte')" />
+                        <Label layoutX="456.0" layoutY="73.0" text="DELETE FROM">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="456.0" layoutY="111.0" text="CONDITION">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Button fx:id="onDeleteConfirm" layoutX="14.0" layoutY="187.0" mnemonicParsing="false" onAction="#onDeleteConfirm" prefHeight="25.0" prefWidth="94.0" text="Confirm" />
+                        <Label alignment="TOP_LEFT" layoutX="129.0" layoutY="187.0" prefHeight="66.0" prefWidth="432.0">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <TextArea fx:id="taudeleteOutput" editable="false" layoutX="14.0" layoutY="263.0" prefHeight="351.0" prefWidth="574.0" wrapText="true">
+                            <font>
+                                <Font name="Courier New" size="12.0" />
+                            </font></TextArea>
+                        <Label layoutX="14.0" layoutY="225.0" text="Output:">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="14.0" layoutY="15.0" text="TROE Java Database Connectivity">
+                            <font>
+                                <Font size="28.0" />
+                            </font>
+                        </Label>
+                        <Label alignment="TOP_LEFT" layoutX="14.0" layoutY="624.0" prefHeight="410.0" prefWidth="600.0" text="no errors">
+                            <font>
+                                <Font size="16.0" />
+                            </font>
+                        </Label>
+                    </children>
+                </AnchorPane>
+            </Tab>
+        </tabs>
+    </TabPane>

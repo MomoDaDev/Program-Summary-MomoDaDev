@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="mainpane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <CheckBox fx:id="removeafterclick" layoutX="564.0" layoutY="569.0" mnemonicParsing="false" />
+      <Label fx:id="l_coords" layoutX="14.0" layoutY="569.0" />
+      <Label layoutX="427.0" layoutY="569.0" text="Remove after next click" />
+   </children>
+</Pane>
+

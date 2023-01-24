@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="mainpane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1300.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <CheckBox fx:id="islam" layoutX="468.0" layoutY="449.0" mnemonicParsing="false" selected="true" text="islam." />
+      <CheckBox fx:id="ob" layoutX="468.0" layoutY="469.0" mnemonicParsing="false" selected="true" text="o.B." />
+      <CheckBox fx:id="pfk" layoutX="468.0" layoutY="489.0" mnemonicParsing="false" selected="true" text="PfK Gem. Gottes iÖ" />
+      <CheckBox fx:id="römkath" layoutX="468.0" layoutY="509.0" mnemonicParsing="false" selected="true" text="röm.-kath." />
+      <CheckBox fx:id="evang" layoutX="468.0" layoutY="429.0" mnemonicParsing="false" selected="true" text="evang A.B." />
+      <CheckBox id="true" fx:id="alevi" layoutX="468.0" layoutY="409.0" mnemonicParsing="false" selected="true" text="ALEVI" />
+      <CheckBox fx:id="serborth" layoutX="468.0" layoutY="529.0" mnemonicParsing="false" selected="true" text="serb.-orth." />
+      <TextField fx:id="searchvorname" layoutX="242.0" layoutY="405.0" promptText="Suche Vorname" />
+      <TextField fx:id="searchnachname" layoutX="60.0" layoutY="405.0" promptText="Suche Nachname" />
+   </children>
+</Pane>

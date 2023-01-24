@@ -1,0 +1,4 @@
+timeToReact=5
+rows=5
+collumns=5
+playtime=5

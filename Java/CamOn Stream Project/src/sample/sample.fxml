@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1400.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Line endX="-100.0" endY="517.0" layoutX="545.0" layoutY="57.0" startX="-100.0" startY="-32.0" />
+      <TextField fx:id="searchbar" layoutX="14.0" layoutY="87.0" prefHeight="25.0" prefWidth="411.0" promptText="Search for WebCam (z.B. XYZ)" />
+      <Label fx:id="errorlabelSearchbar" layoutX="14.0" layoutY="112.0" prefHeight="17.0" prefWidth="411.0" text="Couldn't find the WebCam!" textFill="RED" visible="false" />
+      <Button fx:id="btnSearch" layoutX="14.0" layoutY="141.0" mnemonicParsing="false" onAction="#onSearch" prefHeight="25.0" prefWidth="89.0" text="Search" />
+   </children>
+</Pane>

@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <TextField fx:id="tfAtribut" layoutX="14.0" layoutY="73.0" prefHeight="25.0" prefWidth="432.0" promptText="Atribut" />
+      <TextField fx:id="tfTable" layoutX="14.0" layoutY="111.0" prefHeight="25.0" prefWidth="432.0" promptText="Table" />
+      <TextField fx:id="tfCondition" layoutX="14.0" layoutY="149.0" prefHeight="25.0" prefWidth="432.0" promptText="Condition" />
+      <Label layoutX="456.0" layoutY="73.0" text="select ...">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+       <Label layoutX="456.0" layoutY="111.0" text="from ...">
+           <font>
+               <Font size="16.0" />
+           </font>
+       </Label>
+       <Label layoutX="456.0" layoutY="149.0" text="where ...">
+           <font>
+               <Font size="16.0" />
+           </font>
+       </Label>
+      <Button fx:id="bntConfirm" layoutX="14.0" layoutY="187.0" mnemonicParsing="false" onAction="#onConfirm" prefHeight="25.0" prefWidth="94.0" text="Confirm" />
+       <Label fx:id="lbconnString" alignment="TOP_LEFT" layoutX="129.0" layoutY="187.0" prefHeight="66.0" prefWidth="432.0">
+           <font>
+               <Font size="16.0" />
+           </font>
+       </Label>
+       <TextArea fx:id="taOutput" editable="false" layoutX="14.0" layoutY="263.0" prefHeight="466.0" prefWidth="574.0" />
+      <Label layoutX="14.0" layoutY="225.0" text="Output:">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="15.0" text="TROE Java Database Connectivity">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+       <Label fx:id="lberrorMsg" alignment="TOP_LEFT" layoutX="27.0" layoutY="749.0" prefHeight="66.0" prefWidth="432.0" text="no errors">
+           <font>
+               <Font size="16.0" />
+           </font>
+       </Label>
+   </children>
+</Pane>
+=======
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<GridPane fx:controller="sample.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+</GridPane>
+>>>>>>> 36419290595ba1970f37796b16ef17d7847c1af8
