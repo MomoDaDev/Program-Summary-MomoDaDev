@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "5EHIFTroestlBigNumbers/1.0.0": {
+        "runtime": {
+          "5EHIFTroestlBigNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5EHIFTroestlBigNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

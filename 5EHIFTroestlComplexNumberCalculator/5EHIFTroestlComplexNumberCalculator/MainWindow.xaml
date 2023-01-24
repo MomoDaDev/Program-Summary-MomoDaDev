@@ -1,0 +1,58 @@
+﻿<Window x:Class="_5EHIFTroestlComplexNumberCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5EHIFTroestlComplexNumberCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="850" Background="#FF292929">
+    <Grid>
+        <!-- Operand A -->
+        <Label Content="Operand A" HorizontalAlignment="Left" Margin="50,21,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <Label Name="lbl_operand_a1" Content="Realteil A" HorizontalAlignment="Left" Margin="50,100,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox Name="txb_operand_a1" HorizontalAlignment="Left" Margin="50,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" TextChanged="txb_operand_a1_TextChanged" PreviewTextInput="NumberValidationTextBox"/>
+
+        <Label Name="lbl_operand_a2" Content="Imaginärteil A" HorizontalAlignment="Left" Margin="50,200,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox Name="txb_operand_a2" HorizontalAlignment="Left" Margin="50,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" TextChanged="txb_operand_a2_TextChanged" PreviewTextInput="NumberValidationTextBox"/>
+
+        <!-- Operator Zeichen -->
+        <Label Name="lbl_operator" HorizontalAlignment="Left" Margin="256,180,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <!-- Operand B -->
+        <Label Content="Operand B" HorizontalAlignment="Left" Margin="350,21,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <Label Name="lbl_operand_b1" Content="Realteil B" HorizontalAlignment="Left" Margin="350,100,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox Name="txb_operand_b1" HorizontalAlignment="Left" Margin="350,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" TextChanged="txb_operand_b1_TextChanged" PreviewTextInput="NumberValidationTextBox"/>
+
+        <Label Name="lbl_operand_b2" Content="Imaginärteil B" HorizontalAlignment="Left" Margin="350,200,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox Name="txb_operand_b2" HorizontalAlignment="Left" Margin="350,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131" TextChanged="txb_operand_b2_TextChanged" PreviewTextInput="NumberValidationTextBox"/>
+
+        <!-- = Zeichen -->
+        <Label Content="=" HorizontalAlignment="Left" Margin="556,180,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <!-- Ergebnis Z -->
+        <Label Content="Ergebnis Z" HorizontalAlignment="Left" Margin="650,21,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <Label Name="lbl_ergebnis_z1" Content="Realteil Z" HorizontalAlignment="Left" Margin="650,100,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox Name="txb_ergebnis_z1" IsEnabled="False" HorizontalAlignment="Left" Margin="650,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"/>
+
+        <Label Name="lbl_ergebnis_z2" Content="Imaginärteil Z" HorizontalAlignment="Left" Margin="650,200,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox Name="txb_ergebnis_z2" IsEnabled="False" HorizontalAlignment="Left" Margin="650,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"/>
+
+        <!-- Operator -->
+        <Label Content="Operator:" HorizontalAlignment="Left" Margin="50,334,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <ComboBox Name="cbb_operator" HorizontalAlignment="Left" Margin="143,330,0,0" VerticalAlignment="Top" Width="70" FontSize="16" SelectedIndex="-1" SelectionChanged="cbb_operator_SelectionChanged">
+            <ComboBoxItem>+</ComboBoxItem>
+            <ComboBoxItem>*</ComboBoxItem>
+            <ComboBoxItem>/</ComboBoxItem>
+        </ComboBox>
+        <!-- Anzeige -->
+        <Label Content="Anzeige:" HorizontalAlignment="Left" Margin="350,334,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <ComboBox Name="cbb_anzeige" HorizontalAlignment="Left" Margin="443,330,0,0" VerticalAlignment="Top" Width="128" SelectedIndex="-1"  FontSize="16" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Content="Rechteck"/>
+            <ComboBoxItem Content="Polar"/>
+        </ComboBox>
+
+    </Grid>
+</Window>

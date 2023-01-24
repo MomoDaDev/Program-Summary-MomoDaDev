@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Name>TestTeacher1</Name>
+  <Firstname>Joe</Firstname>
+  <Birthdate>1980-03-03T00:00:00</Birthdate>
+  <ZodiacSign>
+    <ZodiacSign>Aquarius</ZodiacSign>
+  </ZodiacSign>
+  <HireDate>2010-05-05T00:00:00</HireDate>
+  <Schoolclasses />
+</Teacher>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "5EHIFTroestlMinimum Spanning Tree/1.0.0": {
+        "runtime": {
+          "5EHIFTroestlMinimum Spanning Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5EHIFTroestlMinimum Spanning Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
