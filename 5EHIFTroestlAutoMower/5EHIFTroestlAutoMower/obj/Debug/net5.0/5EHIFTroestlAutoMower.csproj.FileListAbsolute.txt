@@ -1,0 +1,16 @@
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\bin\Debug\net5.0\5EHIFTroestlAutoMower.exe
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\bin\Debug\net5.0\5EHIFTroestlAutoMower.deps.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\bin\Debug\net5.0\5EHIFTroestlAutoMower.runtimeconfig.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\bin\Debug\net5.0\5EHIFTroestlAutoMower.runtimeconfig.dev.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\bin\Debug\net5.0\5EHIFTroestlAutoMower.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\bin\Debug\net5.0\5EHIFTroestlAutoMower.pdb
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.csproj.AssemblyReference.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.AssemblyInfoInputs.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.AssemblyInfo.cs
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.csproj.CoreCompileInputs.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\refint\5EHIFTroestlAutoMower.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.pdb
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\5EHIFTroestlAutoMower.genruntimeconfig.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestlAutoMower\5EHIFTroestlAutoMower\obj\Debug\net5.0\ref\5EHIFTroestlAutoMower.dll

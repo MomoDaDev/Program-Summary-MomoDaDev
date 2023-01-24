@@ -1,0 +1,17 @@
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\bin\Debug\net6.0\5EHIFTroestl Recycling.exe
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\bin\Debug\net6.0\5EHIFTroestl Recycling.deps.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\bin\Debug\net6.0\5EHIFTroestl Recycling.runtimeconfig.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\bin\Debug\net6.0\5EHIFTroestl Recycling.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\bin\Debug\net6.0\5EHIFTroestl Recycling.pdb
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.csproj.AssemblyReference.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.AssemblyInfoInputs.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.AssemblyInfo.cs
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.csproj.CoreCompileInputs.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.csproj.CopyComplete
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\refint\5EHIFTroestl Recycling.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.pdb
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\5EHIFTroestl Recycling.genruntimeconfig.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\POS-5EHIF troe\5EHIFTroestl Recycling\5EHIFTroestl Recycling\obj\Debug\net6.0\ref\5EHIFTroestl Recycling.dll
