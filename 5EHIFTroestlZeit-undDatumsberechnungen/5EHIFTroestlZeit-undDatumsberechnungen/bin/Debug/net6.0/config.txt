@@ -1,0 +1,3 @@
+Starttime=8:00 # Startzeitpunkt
+MaxWorkingTime=120 # Maximale Arbeitszeit
+Breaktime=30 # Pausenzeit

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Berliner Mengenlehre Uhr/1.0.0": {
+        "runtime": {
+          "Berliner Mengenlehre Uhr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Berliner Mengenlehre Uhr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

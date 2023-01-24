@@ -1,0 +1,13 @@
+﻿# Startknoten
+s
+# Kanten E
+(w,s)
+(s,r)
+(t,w)
+(w,x)
+(t,x)
+(v,r)
+(u,t)
+(u,y)
+(x,u)
+(x,y)

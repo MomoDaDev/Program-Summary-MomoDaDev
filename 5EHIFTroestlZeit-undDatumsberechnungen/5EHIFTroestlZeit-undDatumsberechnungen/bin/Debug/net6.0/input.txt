@@ -1,0 +1,9 @@
+WP1;Möbel abdecken;40
+WP2;Fussboden abdecken;25
+WP3;Farbe anrühren;15
+WP4;Ausmalen von Wand 1;50
+WP5;Ausmalen von Wand 2;30
+WP6;Ausmalen von Wand 3;70
+WP7;Ausmalen von Wand 4;25
+WP8;Reinigen der Werkzeuge;30
+WP9;Entfernen der Abdeckungen;10

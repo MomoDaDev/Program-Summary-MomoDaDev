@@ -1,0 +1,7 @@
+The DivingTowerSimulator emits his output w/ events so that any UI can be layed on top of the simulation.
+For this UI to work, the Manager handles the subscribtion of the ConsoleOutput class which prints the outputs to the console.
+
+The Simulation works in combination of a Timer that runs every 100 milliseconds that the DivingTowerSimulator subscribes to.
+The DivingTowerSimulator will work with Timestamps and aa constant check if the Timestamps are smaller than the current date.
+The Simulation parameters are set as constants in the ENUM_AND_CONSTANTS class.
+DivingTowerSimulator emits an event when the simulation has ended.

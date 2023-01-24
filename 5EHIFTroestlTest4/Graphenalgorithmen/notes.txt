@@ -1,0 +1,12 @@
+Node: "1A"
+	Next = "1B"
+
+Node: "1B"
+	Next = "2B"
+
+Console.WriteLine($"{_1A.Name} --> {_1A.Next.Name}");
+Console.WriteLine($"{_1B.Name} --> {_1B.Next.Name}");
+
+// Print:
+// 1A --> 1B
+// 1B --> 2B
