@@ -1,0 +1,7 @@
+truffle compile
+truffle migrate
+
+truffle develop
+// functionname is case sensitive
+let instance = await HelloWorld.deployed()
+instance.hello()

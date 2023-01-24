@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e07f1e16-610e-4328-8542-2f6227b713a8": {
+      "ProjectGuid": "e07f1e16-610e-4328-8542-2f6227b713a8",
+      "DisplayName": "hash to sha256 to keccak-256",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

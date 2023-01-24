@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hash to sha256 to keccak-256/1.0.0": {
+        "runtime": {
+          "hash to sha256 to keccak-256.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hash to sha256 to keccak-256/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
